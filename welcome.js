@@ -1,3 +1,4 @@
-<script>
 alert("sdfdsf");
-</script>
+setTimeout(function(){
+  alert("x");
+}, 1000);
